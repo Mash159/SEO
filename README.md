@@ -1,5 +1,5 @@
 # SEO
-full website built using:
+Full website built using:
 <br>
 HTML5,CSS3,Bootstrap4
 <br>
