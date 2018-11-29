@@ -1,0 +1,192 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #2f2c2c;
+}
+
+section {
+	padding: 50px 0;
+}
+
+.bg-dark {
+	background-color: #2f2c2c !important;
+}
+
+.heroSection {
+	height: 100%;
+}
+
+.heroSection .container,
+.heroSection .row{
+    height: 100%;
+}
+
+.plans {
+	position: relative;
+}
+
+.lShape {
+	position: absolute;
+	top: -70px;
+	left: 350px;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
+.crop {
+	color: #00d9ce;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	font-weight: 500;
+	color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: #c3c3c3
+}
+
+.btn.btn1 {
+	background-color: #00d9ce;
+	border-radius: 0px;
+	font-weight: 500;
+	color: #2f2c2c;
+	border: 2px solid #00d9ce;
+}
+
+.btn.btn1:hover {
+	background-color: #019a92;
+	border: 2px solid #019a92;
+}
+
+.white {
+	color: #fff;
+}
+
+.btn-outline-light {
+	border: 2px solid #fff;
+	border-radius: 0px;
+}
+
+.btnSize {
+	padding: 0;
+	width: 180px;
+	height: 50px;
+	line-height: 50px;
+}
+
+.briefSection p {
+	color: #a0a0a0;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+.bg-gray {
+	background-color: #e7e7e7;
+}
+
+.plan2 {
+	background-color: #7febe6;
+}
+
+.plan3 {
+	background-color: #f7921e;
+}
+
+.plan1 p {
+	color: #a0a0a0;
+	font-weight: 500;
+}
+
+.plan2 p {
+	color: #3f8481;
+	font-weight: 500;
+}
+
+.plan3 p {
+	color: #fff;
+	font-weight: 500;
+}
+
+.btn-outline-dark {
+	border: 3px solid #2f2c2c;
+	color: #2f2c2c;
+	font-weight: bold;
+	border-radius: 0px;
+	width: 200px;
+	height: 50px;
+	padding: 0;
+	line-height: 45px;
+}
+.helpSectionDesk{
+	color: #f7921e;
+}
+.borderedText{
+	padding: 10px 0px;
+	border:2px solid #2f2c2c;
+}
+.btnForm{
+	color: white;
+	background-color: #f7921e;
+	width: 540px;
+}
+.form-control{
+	background-color: #e7e7e7;
+	border: 3px solid #2f2c2c;
+	border-radius: 0px;
+	color: #868686;
+	height: 55px;
+}
+
+.testimonials {
+	position: relative;
+}
+
+.testimonials p {
+	color: #a0a0a0;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.btn3 {
+	background-color: #2f2c2c;
+	font-size: 32px;
+	font-weight: bold;
+	padding: 20px 40px;
+	border-radius: 0px;
+	position: absolute;
+	bottom: -50px;
+	text-align: center;
+	left: 40%;
+}
+
+.line {
+	height: 10px;
+	background-color: #f2f2f2;
+}
+
+footer {
+	background-color: #00d9ce;
+	font-weight: bold;
+}
+
+footer a {
+	color: #2f2c2c;
+}
+
+footer a:hover {
+	color: #2f2c2c;
+}
+
+footer span {
+	font-size: 12px;
+}
+
+.testimonials .pCoro {
+	color: #f7921e !important;
+}
+
+.carousel-control-next, .carousel-control-prev {
+	top: 20%;
+}
